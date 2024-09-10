@@ -40,7 +40,7 @@ To drive adoption and liquidity in the early stages, the platform offers several
 
  Future Developments and Enhancements
 As the platform grows, additional features will be introduced to offer further value to users:
-- Subscription Model: A subscription model will be implemented to provide premium services and enhanced features for users who opt for a recurring fee. Introduce features like subscription models, premium services, and advanced analytics.
+- Subscription Model: A subscription model will be implemented to provide premium services and enhanced features for users who opt for a recurring fee. Introduce features like subscription models, premium services, and advanced analytics. For traders who want premium features, such as lower transaction fees, priority listings, or additional analytics tools to track contract performance.
 - Premium Services: Additional premium services will be offered to cater to the diverse needs of the user base, providing advanced tools and functionalities.
 - Community Building: Foster a strong community of buyers and sellers to drive platform growth.
 - Partnerships: Collaborate with internet service providers and other relevant businesses to expand market reach.. we are actually doing this now.
@@ -52,6 +52,8 @@ As the platform grows, additional features will be introduced to offer further v
 - Graphs and charts to make the analytics data look pretty. No, but really. One area is the trader’s profit element. Buyers who act as traders can sell contracts at higher prices based on the perceived value of the bandwidth or the income the contract generates. As ISP subscribers continue to pay monthly fees, the value of the contract can fluctuate, similar to how loan contracts fluctuated on peer-to-peer lending platforms. The fluctuation data of prices or value of contracts would be good to design analytic data using chart.js or similar.
 - AI intergration. Need I say more.
 - Machine learning using pytorch would be cool.
+- API Integration: Eventually, APIs can be integrated to pull exchange rates, dynamic bandwidth pricing, and usage data to further automate and optimize the trading experience.
+- Dynamic Pricing: As the platform grows, it would be really cool to build in a pricing model where factors like bandwidth consumption, ISP performance, and real-time market conditions can automatically adjust the value of contracts.
 
  Getting Started
 To get started with the Trading Platform, follow these steps:
