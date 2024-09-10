@@ -49,6 +49,7 @@ As the platform grows, additional features will be introduced to offer further v
 - Referral Bonuses: Implement a referral program where users who refer others (traders or buyers) earn a percentage of the platform’s transaction fees from those referrals for the first few trades. Both the referrer and the referred can benefit, e.g., earning fee discounts or a small payout for the first successful contract traded.
 - Contract Listing Credits: Offer free credits for sellers to list their first contracts, making it easier to get started on the platform without upfront costs.
 - Loyalty Reward System: A loyalty system could be implemented, where traders and buyers accumulate points based on their trading volume or the number of contracts they maintain. These points could be redeemed for discounted trades, faster payouts, or exclusive access to premium contracts.
+- Graphs and charts to make the analytics data look pretty. No, but really. One area is the trader’s profit element. Buyers who act as traders can sell contracts at higher prices based on the perceived value of the bandwidth or the income the contract generates. As ISP subscribers continue to pay monthly fees, the value of the contract can fluctuate, similar to how loan contracts fluctuated on peer-to-peer lending platforms. The fluctuation data of prices or value of contracts would be good to design analytic data using graph.js or similar.
 
  Getting Started
 To get started with the Trading Platform, follow these steps:
