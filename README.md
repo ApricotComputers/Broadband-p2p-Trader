@@ -3,6 +3,13 @@ Broadband-PeertoPeer-Trading-with-a-crypto-touch
 Wouldn't it be great If you could buy and sell broadband contracts? Well, this is the chance to make a healthy income into your crypto portfolio by buying and selling ISP contracts. I got this idea from a peer to peer trading platform called FolioFN by LendingClub. I was fascinated about peer to peer lending and how we could basically remove banks out of the mix of issuing loans to people. Well, I wanted to take that same concept and build a trading platform whereby you could buy contracts from the ISP and then sell them to other traders. Now that crypto has become common. The ability to add BTC or USDT as the "value add" supports doing so anywhere in the world. I invite you to join on the fun and also develop the platform to transform the world of Internet access, earning a steady income stream while helping more people get connected to the Internet all at the same time. I also still have not formerly landed on a name to call this contraption.. so I'll just call it the BCTP? Or Broadband Contract Trading Platform. Or P2P Broadband Contract Trading Platform? Anyway, I'm sure you get the idea. 
 If we can provide a valuable use case for cryptocurrency and offer a unique solution for buying and selling broadband contracts, this platform has the potential to become a leading player in the crypto/peer-to-peer/bandwidth trading marketplace.
 
+Factors that will make this platform robust and questions we need to ask...:
+Payment methods: Does the platform support the payment methods you need?
+Fees: How much does the platform charge for transactions?
+Security: Is the platform secure and reliable?
+Privacy: Does the platform protect user privacy?
+Functionality: Does the platform have the features and functionality you need?
+
 Feel free to check out my medium and X channels too.
 Patreon: patreon.com/UmuntuWiFi
 Twitter: https://twitter.com/mine4me01
