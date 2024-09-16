@@ -80,6 +80,8 @@ If you would like to join our efforts please also get in touch to start working 
 
 Feel free to check out my medium and X channels too.
 Telegram: https://t.me/MeshlyOfficial
+&
+https://www.reddit.com/r/PopSpeed_Mbps/
 
 ---
 
