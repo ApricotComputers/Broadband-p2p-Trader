@@ -48,19 +48,7 @@ To drive adoption and liquidity in the early stages, the platform offers several
  Future Developments and Enhancements
 As the platform grows, additional features will be introduced to offer further value to users:
 - Subscription Model: A subscription model will be implemented to provide premium services and enhanced features for users who opt for a recurring fee. Introduce features like subscription models, premium services, and advanced analytics. For traders who want premium features, such as lower transaction fees, priority listings, or additional analytics tools to track contract performance.
-- Premium Services: Additional premium services will be offered to cater to the diverse needs of the user base, providing advanced tools and functionalities.
-- Community Building: Foster a strong community of buyers and sellers to drive platform growth.
-- Partnerships: Collaborate with internet service providers and other relevant businesses to expand market reach.. we are actually doing this now.
-- Allowing the contract owner to SSH into the subscribers modems to determine the speed of the TPLink Access Point from the trading platform. Whereby, a contract owner does not actually have to SSH into but the platform does the SSH'ing. And the Contract owner only has to determine the QoS from their contract management UI.
-- Discounted Fees for Early Signups: Early users (both buyers and sellers) can enjoy discounted transaction fees for the first 3-6 months. This will encourage both trading activity and the acquisition of new ISP contracts to be listed on the platform.
-- Referral Bonuses: Implement a referral program where users who refer others (traders or buyers) earn a percentage of the platform’s transaction fees from those referrals for the first few trades. Both the referrer and the referred can benefit, e.g., earning fee discounts or a small payout for the first successful contract traded.
-- Contract Listing Credits: Offer free credits for sellers to list their first contracts, making it easier to get started on the platform without upfront costs.
-- Loyalty Reward System: A loyalty system could be implemented, where traders and buyers accumulate points based on their trading volume or the number of contracts they maintain. These points could be redeemed for discounted trades, faster payouts, or exclusive access to premium contracts.
-- Graphs and charts to make the analytics data look pretty. No, but really. One area is the trader’s profit element. Buyers who act as traders can sell contracts at higher prices based on the perceived value of the bandwidth or the income the contract generates. As ISP subscribers continue to pay monthly fees, the value of the contract can fluctuate, similar to how loan contracts fluctuated on peer-to-peer lending platforms. The fluctuation data of prices or value of contracts would be good to design analytic data using chart.js or similar.
-- AI intergration. Need I say more.
-- Machine learning using pytorch would be cool.
-- API Integration: Eventually, APIs can be integrated to pull exchange rates, dynamic bandwidth pricing, and usage data to further automate and optimize the trading experience.
-- Dynamic Pricing: As the platform grows, it would be really cool to build in a pricing model where factors like bandwidth consumption, ISP performance, and real-time market conditions can automatically adjust the value of contracts.
+& much much more.. 
 
  Getting Started
 To get started with the Trading Platform, follow these steps:
